@@ -28,8 +28,11 @@ Auto-start: Toggle "Launch at Login" in the menu bar settings.
 Support the Project
 
 ZenVault is completely free and open-source. If this utility saves you time and you want to support independent development, you can buy me a coffee:
+
 USDT (TRC-20): TUrAM8pNtdajqJ8ECXYCP8cxfteRPBN15q
+
 Bitcoin (BTC): bc1q70hljsrpz75am9tl6j4lmyp76d0jrcfwy5lcsz
+
 Every contribution helps to improve the app and add new features!
 Build from Source
 
